@@ -1,19 +1,19 @@
-# Foobar
+# Keeper App
 
-Keeper App With ReactJS
+Keeper App is a note-taking app developed with ReactJs
 
 ## Clone 
 
 Clone This Repository using:
 
 ```bash
-git clone 
+git clone https://github.com/Nishkarsh01/Keeper-App-with-React.git
 ```
 
 ## What is this app?
 
-Keeper App is an app where we can store our daily thoughts, tasks, lists, etc. This app has been developed using ReactJS. 
-Through this app I familiarized myself with its fundamentals like working with components, props, working with hooks, with different states, complex states and managing the component tree.
+Keeper App is an app where we can store our daily thoughts, tasks, lists, etc. into a bunch of dynamically rendered small digital white notes. This app has been developed using ReactJS. 
+Through this app I familiarized myself with the fundamentals of ReactJS like working with components, props, working with hooks, with different states, complex states and managing the component tree.
 
-So in a nutshell I had a lot of fun while working on this project.
+So, in a nutshell I had a lot of fun while working on this project and I got to learn a lot.
 
