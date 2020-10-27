@@ -40,8 +40,8 @@ To collaborate, reach me on [nishdubb11@gmail.com]()
 
 ## Further help
 
-To get more help on the Javascript go check out the [MDN Javascript Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript).
-To get more help on the React go check out the [Reactjs Documentation](https://reactjs.org/docs/getting-started.html).
+* To get more help on the Javascript go check out the [MDN Javascript Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript).
+* To get more help on the React go check out the [Reactjs Documentation](https://reactjs.org/docs/getting-started.html).
 
 
 
