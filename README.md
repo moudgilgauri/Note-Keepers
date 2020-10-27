@@ -4,13 +4,15 @@ Keeper App is a note-taking app developed with ReactJs.Keeper App is an app wher
 
 So, in a nutshell I had a lot of fun while working on this project and I got to learn a lot.
 
-## Clone 
+## Author
+> Nishkarsh01
 
-Clone This Repository using:
+## Screenshots
+![App Screenshot](screenshots/1.png)
 
-```bash
-git clone https://github.com/Nishkarsh01/Keeper-App-with-React.git
-```
+
+
+
 
 
 
