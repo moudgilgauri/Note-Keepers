@@ -27,7 +27,7 @@ or download the zip file from github.
 
 After extracting the files, 
 
-* 1  .`` cd Keeper-App-with-React`` 
+* 1  .``cd Keeper-App-with-React`` 
 * 2  .``npm install``
 * 3  .``npm start``
 
