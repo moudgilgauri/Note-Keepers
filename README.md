@@ -12,6 +12,6 @@ Clone This Repository using:
 git clone https://github.com/Nishkarsh01/Keeper-App-with-React.git
 ```
 
-## What is this app?
+
 
 
