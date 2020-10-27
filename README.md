@@ -10,9 +10,34 @@ So, in a nutshell I had a lot of fun while working on this project and I got to 
 ## Screenshots
 ![App Screenshot](screenshots/1.png)
 
+## Developed using
+* Html
+* css
+* javascript
+* ReactJS
 
+## Setup:
 
+#### Clone this repository:
 
+```bash
+git clone https://github.com/Nishkarsh01/Keeper-App-with-React.git
+```
+or download the zip file from github.
+
+After extracting the files, 
+
+* 1  .`` cd Keeper-App-with-React`` 
+* 2  .``npm install``
+* 3  .``npm start``
+
+## Collaborate
+To collaborate, reach me on [nishdubb11@gmail.com]()
+
+## Further help
+
+To get more help on the Javascript go check out the [MDN Javascript Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript).
+To get more help on the React go check out the [Reactjs Documentation](https://reactjs.org/docs/getting-started.html).
 
 
 
